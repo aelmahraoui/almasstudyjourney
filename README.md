@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile! 👋
+
 
 ![LinkedIn Banner](https://raw.githubusercontent.com/almasstudyjourney/almasstudyjourney/main/Black%20and%20Gray%20Minimalist%20LinkedIn%20Banner.png)
 
