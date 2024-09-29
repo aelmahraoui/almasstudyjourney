@@ -28,7 +28,7 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/yourprofi
 Thank you for visiting my profile! 😊
 
 
-Thank you for visiting my profile! 😊
+
 
 
 
