@@ -3,7 +3,7 @@
 ![LinkedIn Banner](https://raw.githubusercontent.com/almasstudyjourney/almasstudyjourney/main/Black%20and%20Gray%20Minimalist%20LinkedIn%20Banner.png)
 
 ## About Me
-Hello! I'm [Your Name](https://www.yourwebsite.com), a passionate Data Scientist and aspiring Data Analyst with a strong foundation in data analysis, machine learning, and data visualization. I love leveraging data-driven insights to solve complex problems and make informed decisions.
+Hello! I'm [Amal](https://www.yourwebsite.com), a graduate with a Bachelor's degree in Computer Science (BCS) specializing in Data Engineering and Software Development. I'm currently pursuing a Master's degree in Artificial Intelligence and Data Science. I love leveraging data-driven insights to solve complex problems and make informed decisions. Welcome to my study journey! 
 
 
 
