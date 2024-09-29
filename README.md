@@ -1,9 +1,11 @@
 # Welcome to My GitHub Profile! 👋
 
-![LinkedIn Banner]([https://github.com/your-username/almasstudyjourney/raw/main/Black%20and%20Gray%20Minimalist%20LinkedIn%20Banner.png](https://github.com/almasstudyjourney/almasstudyjourney/blob/main/Black%20and%20Gray%20Minimalist%20LinkedIn%20Banner.png))
+![LinkedIn Banner](https://raw.githubusercontent.com/almasstudyjourney/almasstudyjourney/main/Black%20and%20Gray%20Minimalist%20LinkedIn%20Banner.png)
 
 ## About Me
 Hello! I'm [Your Name](https://www.yourwebsite.com), a passionate Data Scientist and aspiring Data Analyst with a strong foundation in data analysis, machine learning, and data visualization. I love leveraging data-driven insights to solve complex problems and make informed decisions.
+
+
 
 ## Skills
 - **Data Analysis**: Python, Pandas, NumPy
