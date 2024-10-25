@@ -20,6 +20,15 @@ Here are some of the projects I've worked on:
 - [Project 2: Predictive Modeling](link-to-project)
 - [Project 3: Data Dashboard](link-to-project)
 
+## stats 
+![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=almasstudyjourney&show_icons=true&hide_border=true)
+
+## languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almasstudyjourney)](https://github.com/almasstudyjourney/github-readme-stats)
+
+## stars
+![github stats](https://github-readme-stats.vercel.app/api?username=almasstudyjourney)
+
 ## Contact Me
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/yourprofile) or [Twitter](https://twitter.com/yourprofile) for any collaborations or just to connect!
 
